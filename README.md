@@ -14,7 +14,7 @@
         example:  
             ```interface user = {  
                 name: string,  
-                id: number,
+                id: number,  
             };```  
 
 - **Classes**:   
@@ -36,7 +36,8 @@
 
 
 ## Generic types  
-
+Generic types is used to define the type of the variable in advance.  
+You can use it with the "<>" symbols.  
 
 ## How to use namespaces  
 
