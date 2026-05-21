@@ -17,6 +17,21 @@
                 id: number,
             };```  
 
+- **Classes**:   
+    You can also declare the type with a class  
+    example:  
+    ```class UserAccount {
+    name: string;  
+    id: number;  
+
+    constructor(name: string, id: number) {  
+        this.name = name;  
+        this.id = id;  
+    }  
+    }```  
+
+- **function**:  
+
 ## How to work with the DOM and Typescript  
 
 
