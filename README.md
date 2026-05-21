@@ -9,7 +9,7 @@
 - array  
 
 ## Interfaces, Classes, and functions  
-Interfaces:  
+- **Interfaces**:  
     explicilty describe an object shape  
         example:  
             ```interface user = {  
