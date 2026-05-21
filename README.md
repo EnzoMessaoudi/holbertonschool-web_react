@@ -1,19 +1,21 @@
-# Basic types in Typescript 
-    - string  
-    - number  
-    - boolean  
-    - undefined  
-    - function  
-    - array  
+# TypeScript
 
-# Interfaces, Classes, and functions  
-    Interfaces:  
-        explicilty describe an object shape  
-            example:  
-                ```interface user = {  
-                    name: string,  
-                    id: number,
-                };```
+## Basic types in Typescript 
+- string  
+- number  
+- boolean  
+- undefined  
+- function  
+- array  
+
+## Interfaces, Classes, and functions  
+Interfaces:  
+    explicilty describe an object shape  
+        example:  
+            ```interface user = {  
+                name: string,  
+                id: number,
+            };```
 How to work with the DOM and Typescript
 Generic types
 How to use namespaces
