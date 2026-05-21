@@ -1,4 +1,4 @@
-## Basic types in Typescript 
+# Basic types in Typescript 
     - string  
     - number  
     - boolean  
@@ -6,7 +6,7 @@
     - function  
     - array  
 
-## Interfaces, Classes, and functions  
+# Interfaces, Classes, and functions  
     Interfaces:  
         explicilty describe an object shape  
             example:  
