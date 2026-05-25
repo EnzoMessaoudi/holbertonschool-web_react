@@ -1,4 +1,3 @@
-// React.ts
 /// <reference path="./Teacher.ts" />
 /// <reference path="./Subject.ts" />
 
